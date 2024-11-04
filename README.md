@@ -1,4 +1,4 @@
-## Project Description and Overview
+## Description
 Analysis of customer subscription data to inform business growth strategies.
 
 ## Data Collected
