@@ -1,1 +1,72 @@
+## Project Description and Overview
+Analysis of customer subscription data to inform business growth strategies.
 
+## Data Collected
+- Customer subcription data (33,787 records)
+- Variables:
+    - Subcription type (Basic, Premium, Standard)
+    - Region (North, South, East, West)
+    - Revenue
+    - Cancellation status (True/False)
+ 
+## Project Objectives
+- Identify Key trends in customer subscriptions
+- Analyze revenue generation by subscription type
+- Determine cancellation rates by region
+- Develop recommendations for business growth
+
+## Revenue by subcription type
+- Revenue by subscription type
+- Cancellation rate  by region
+- Top 10 high-value customers
+
+## How to Use the Data  
+- Explore data visualization dashboards (Power BI
+- Run SQL queries for custom analysis
+- Review findings and recommendations report
+
+## Formula Used
+- Revenue calculation: SUM(Revenue) by subscription type
+- Cancellation rate calculation: COUNT(Canceled) / COUNT(*) * 100 by region
+
+## Tools and Methods Used
+- Excel for data cleaning and pivot tables
+- SQL for data querying
+- Power BI for data visualization
+
+## Power BI Visualizations
+# Dashboards
+- Subscription Revenue Dashboard
+- Cancellation Rate Dashboard
+- Top Customers Dashboard
+
+# Reports
+- Revenue by Subscription Type Report
+- Cancellation Rate by Region Report
+- Customer Segmentation Report
+
+## Visualizations
+![image](https://github.com/user-attachments/assets/c30b2467-52a4-46d8-8036-f9c0bd1f14c6)
+
+# Revenue by Subscription Type
+![image](https://github.com/user-attachments/assets/7ccb3f93-e2c5-48b9-81d8-e3064036308f)
+
+# Cancellation Rate by Region
+![image](https://github.com/user-attachments/assets/640182a8-90f8-4008-a019-949d21524ed8)
+
+## Visual Analysis and Inference
+![image](https://github.com/user-attachments/assets/a6c7c263-0449-4e6f-9cce-c7ca72d7cb8e)
+
+- Pivot Table 1 - Revenue by Subscription Type
+![image](https://github.com/user-attachments/assets/6cf7aef3-3c92-4c35-bce6-f87dc1ec29c8)
+ Pivot Table 2 - Cancellation Rate by Region
+![image](https://github.com/user-attachments/assets/bf9d9846-1777-450b-8293-7e9587857a42)
+
+## Conclusion
+This analysis of customer subscription data provides valuable insights into revenue generation, cancellation rates, and customer segmentation. 
+
+# Key Findings
+- Revenue is highest among Premium subscriber, with an average 
+
+
+- 
