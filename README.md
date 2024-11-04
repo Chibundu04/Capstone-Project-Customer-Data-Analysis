@@ -62,23 +62,24 @@ Analysis of customer subscription data to inform business growth strategies.
  Pivot Table 2 - Cancellation Rate by Region
 ![image](https://github.com/user-attachments/assets/bf9d9846-1777-450b-8293-7e9587857a42)
 
-## Conclusion
-This analysis of customer subscription data provides valuable insights into revenue generation, cancellation rates, and customer segmentation. 
-
 # Key Findings
 - Basic subscribers generate 2x more revenue than Premium, an increase of 50%
 - Average subscription duration is 12 months.
 - Cancellation rates are highest among Basic scbcribers (25%).
 
-## Key Takeaways:
+# Key Takeaways:
 - Basic subscribers and East region customers are key revenue drivers
 - Cancellation rates vary by region and subscription type
 - Customer demographics and industry segmentation can inform targeted marketing.
 
-## Actionable Insights:
+# Actionable Insights:
 - Offer target promotions to Basic subscribers and East region customers
 - Develop region-specific retention strategies
 - Create indiisty-specific marketing campaigns
 
-## Repository Maintenance:
+# Conclusion
+This analysis of customer subscription data provides valuable insights into revenue generation, cancellation rates, and customer segmentation. 
+
+# Repository Maintenance:
 This repository will be updated regularly to reflect new data and insights.
+
