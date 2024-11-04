@@ -52,7 +52,7 @@ Analysis of customer subscription data to inform business growth strategies.
 ![image](https://github.com/user-attachments/assets/7ccb3f93-e2c5-48b9-81d8-e3064036308f)
 
 # Cancellation Rate by Region
-![image](https://github.com/user-attachments/assets/640182a8-90f8-4008-a019-949d21524ed8)
+![image](https://github.com/user-attachments/assets/ffb223e6-dda3-460a-8539-bd8c53524d98)
 
 ## Visual Analysis and Inference
 ![image](https://github.com/user-attachments/assets/a6c7c263-0449-4e6f-9cce-c7ca72d7cb8e)
