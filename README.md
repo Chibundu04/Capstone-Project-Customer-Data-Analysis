@@ -64,15 +64,19 @@ Analysis of customer subscription data to inform business growth strategies.
 
 ## SQL Scripts
 
--- select * from [CAPSTONE PROJECT CUSTOMER DATA SET]
+# All Customer Data
+SQL 
+SELECT * FROM [CAPSTONE PROJECT CUSTOMER DATA SET];
 
--- SELECT 
+## Total Customers By Region
+```sql
+ SELECT 
     Region, 
     COUNT(CustomerID) AS TotalCustomers 
 FROM [CAPSTONE PROJECT CUSTOMER DATA SET]
 GROUP BY Region;
 
---- SELECT 
+---SELECT 
     SubscriptionType,
     SUM(Revenue) AS TotalRevenue
 FROM 
