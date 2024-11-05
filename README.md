@@ -87,6 +87,7 @@ GROUP BY
     SubscriptionType
 ORDER BY 
     TotalRevenue DESC;
+    ``
     
 ## Cancellation Count
 ``
