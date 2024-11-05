@@ -69,14 +69,16 @@ SQL
 SELECT * FROM [CAPSTONE PROJECT CUSTOMER DATA SET];
 
 ## Total Customers By Region
-```sql
+``|sql
  SELECT 
     Region, 
     COUNT(CustomerID) AS TotalCustomers 
 FROM [CAPSTONE PROJECT CUSTOMER DATA SET]
 GROUP BY Region;
 
----SELECT 
+## Subscription Type
+``|sql
+SELECT 
     SubscriptionType,
     SUM(Revenue) AS TotalRevenue
 FROM 
@@ -85,8 +87,10 @@ GROUP BY
     SubscriptionType
 ORDER BY 
     TotalRevenue DESC;
-
--- SELECT 
+    
+## Cancellation Count
+``|sql
+SELECT 
     Region,
     COUNT(Canceled) AS CancellationCount
 FROM 
