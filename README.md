@@ -65,11 +65,11 @@ Analysis of customer subscription data to inform business growth strategies.
 ## SQL Scripts
 
 # All Customer Data
-``|sql
+`` |sql
 SELECT * FROM [CAPSTONE PROJECT CUSTOMER DATA SET];
 
 ## Total Customers By Region
-``|sql
+`` |sql
 SELECT 
     Region, 
     COUNT(CustomerID) AS TotalCustomers 
