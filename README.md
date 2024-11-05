@@ -65,10 +65,11 @@ Analysis of customer subscription data to inform business growth strategies.
 ## SQL Scripts
 
 # All Customer Data
-SQL 
+``|SQL 
 SELECT * FROM [CAPSTONE PROJECT CUSTOMER DATA SET];
 
 ## Total Customers By Region
+``|SQL
 SELECT 
     Region, 
     COUNT(CustomerID) AS TotalCustomers 
@@ -101,7 +102,7 @@ GROUP BY
 ORDER BY 
     CancellationCount DESC
     ``
-
+    
 # Key Findings
 - Basic subscribers generate 2x more revenue than Premium, an increase of 50%
 - Average subscription duration is 12 months.
