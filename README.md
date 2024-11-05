@@ -69,7 +69,6 @@ SQL
 SELECT * FROM [CAPSTONE PROJECT CUSTOMER DATA SET];
 
 ## Total Customers By Region
-``
 SELECT 
     Region, 
     COUNT(CustomerID) AS TotalCustomers 
@@ -77,8 +76,7 @@ FROM [CAPSTONE PROJECT CUSTOMER DATA SET]
 GROUP BY Region;
 
 ## Subscription Type
-``
-SELECT 
+`` |SELECT 
     SubscriptionType,
     SUM(Revenue) AS TotalRevenue
 FROM 
@@ -90,7 +88,7 @@ ORDER BY
     ``
     
 ## Cancellation Count
-``
+``|sql
 SELECT 
     Region,
     COUNT(Canceled) AS CancellationCount
@@ -102,6 +100,7 @@ GROUP BY
     Region
 ORDER BY 
     CancellationCount DESC
+    ``
 
 # Key Findings
 - Basic subscribers generate 2x more revenue than Premium, an increase of 50%
